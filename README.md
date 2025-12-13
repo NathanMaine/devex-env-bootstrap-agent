@@ -1,6 +1,5 @@
 # DevEx Environment Bootstrapping Agent
 
-> 10th Grade Explanation
 Setting up a new work computer for a programmer usually takes days of installing messy software.
 This AI acts like a wizard that installs everything automatically in minutes,
 so the new hire can start working on day one.
